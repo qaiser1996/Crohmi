@@ -1,0 +1,13 @@
+{
+  "name": "Mar",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "Rendered with <a href=\"https://www.maptiler.com/desktop/\">MapTiler Desktop</a>",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "17",
+  "maxzoom": "21",
+  "scale": "1.000000",
+  "bounds": [73.12967944, 33.67057712, 73.13096576, 33.67227443],
+  "profile": "mercator"
+}
